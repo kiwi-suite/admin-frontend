@@ -42,7 +42,7 @@
     "@types/googlemaps": "^3.30.12",
     "@types/moment-timezone": "^0.5.12",
     "bootstrap": "^4.1.2",
-    "chart.js": "^2.7.2",
+    "chart.js": "^2.9.4",
     "core-js": "^2.5.7",
     "flag-icon-css": "^3.0.0",
     "font-awesome": "^4.7.0",
